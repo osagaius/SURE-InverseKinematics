@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+e5be3b52a2d907aee98d9891e5cc342e include/moc_myplugin.cxx
+7f07d786c847f6176b5642ee777a883a ui_myplugin.h
